@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+BIN/
+TestHex/
+Analyzed_File/
+*.spec
